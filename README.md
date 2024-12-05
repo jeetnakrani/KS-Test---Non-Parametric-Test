@@ -86,6 +86,4 @@ This code demonstrates the use of the Kolmogorov-Smirnov test to assess the dist
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-This `README.md` provides an overview of the steps and outputs of your Kolmogorov-Smirnov test implementation, making it clear for anyone who wants to understand or replicate your work.
