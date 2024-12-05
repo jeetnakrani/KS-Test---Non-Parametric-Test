@@ -85,5 +85,5 @@ pip install pandas numpy scipy matplotlib
 This code demonstrates the use of the Kolmogorov-Smirnov test to assess the distributions of transaction amounts and the normality of the data. It can be extended to analyze other datasets or perform similar tests for distribution comparisons.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
